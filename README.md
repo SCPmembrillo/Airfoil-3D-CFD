@@ -13,8 +13,8 @@ Both wings have a NACA 7715 airfoil at the root and a NACA 0009 at the tip.
 
 <div align="center">
   <img src="docs/images/tip.gif" alt="docs/images/tip.gif" width="800"/>
-  
 </div>
+
 ## Objectives
 - To design and simulate complex three-dimensional wing structures in ANSYS Fluent
 - To analyze the effect of wing geometric characteristics on 3D aerodynamics
