@@ -1,7 +1,7 @@
 ## Overview
-This project presents a computational analysis of three-dimensional wing aerodynamics, a key aspect in aircraft design. Two wings with different geometric characteristics but common airfoils are considered: a NACA 7715 at the root and a NACA 0009 at the tip. The study focuses on evaluating how variations in sweep angle, aspect ratio, and taper ratio affect overall performance through simulations in ANSYS Fluent.
-
 ANSYS Fluent, one of the leading tools in computational fluid dynamics (CFD), directly solves the Navier–Stokes equations using models such as RANS or LES, including turbulence approaches like SST. This enables the capture of three-dimensional flow phenomena such as separation, vortices, and recirculation, providing a more realistic representation of aerodynamic behavior near the wing surface.
+
+This project presents a computational analysis of three-dimensional wing aerodynamics, a key aspect in aircraft design. Two wings with different geometric characteristics but common airfoils are considered: a NACA 7715 at the root and a NACA 0009 at the tip. The study focuses on evaluating how variations in sweep angle, aspect ratio, and taper ratio affect overall performance through simulations in ANSYS Fluent.
 
 | Property                                | Wing 1 | Wing 2 |
 |-----------------------------------------|--------|--------|
